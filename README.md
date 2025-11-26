@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently pursuing a BSc in Management and Data Science at Technical University of Munich<br> I’m passionate about leveraging Python, data analysis, and visualization to solve real-world problems. <br>I work on projects ranging from personal data analytics systems to financial portfolio tools, and I’m interested in economic data. <br>Always eager to collaborate on data-driven projects and learn new technologies like R, advanced Excel, and machine learning.<br>Also planning to learn Blender and AE.. :)
+Currently pursuing a BSc in Management and Data Science at Technical University of Munich<br> I’m passionate about leveraging Python, data analysis, and visualization to solve real-world problems. <br>I work on projects ranging from personal data analytics systems to financial portfolio tools, and I’m interested in economic data. <br>Always eager to collaborate on data-driven projects and learn new technologies like R, advanced Excel, and machine learning.<br>Also learning Blender and AE.. :)
 
 
 ## 🌐 Socials:
